@@ -17,5 +17,5 @@ Desenvolvido usando HTML, CSS, JAVASCRIPT
 
 Conteudo aprendido através da RocketSeat, dentro do NLW-Unite.
 
-- [@Mike Brito](https://github.com/maykbrito)
+- [@Mayk Brito](https://github.com/maykbrito)
 
